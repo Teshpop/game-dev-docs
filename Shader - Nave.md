@@ -1,4 +1,4 @@
-![[./images/ShaderNaveImg.png]]
+![image](../images/ShaderNaveImg.png)
 # Introducción 
 - ## Descripción 
 	En clase, se nos asigno el desarrollo de un shader que se aplicaría en un modelo de nave espacial con el objetivo de hacer manipulación de transparencias en objetos además de implementarlo con conocimientos adquiridos anteriormente.  
