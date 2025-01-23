@@ -11,7 +11,7 @@ Una vez que el timeline estuvo definido, procedí a la colocación de varios obj
 
 - ###  Creación de Texturas
 
-Para mejorar el realismo de los objetos, utilicé **Substance Designer** para crear texturas básicas personalizadas. Este proceso implicó el diseño de materiales que se adaptaran a la estética general del entorno, permitiendo que cada objeto tuviera un aspecto único. La capacidad de modificar las texturas en tiempo real facilitó ajustes rápidos y eficientes.
+Para mejorar el realismo de los objetos, utilicé Substance Designer para crear texturas básicas personalizadas. Este proceso implicó el diseño de materiales que se adaptaran a la estética general del entorno, permitiendo que cada objeto tuviera un aspecto único. La capacidad de modificar las texturas en tiempo real facilitó ajustes rápidos y eficientes.
 
 - ###  Iluminación
 
